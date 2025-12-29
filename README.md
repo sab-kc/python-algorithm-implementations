@@ -1,12 +1,12 @@
 # Python Algorithm Implementations
 
-A collection of different algorithms implemented using Python
+A collection of different algorithms and data structures implemented using Python
 
 ## Makefile
 
-In this repository you will find a `Makefile` that contains all the necessary imports to run these algorithms
+In this repository, you will find a `Makefile` that contains all the necessary imports to run these algorithms
 
-In you terminal run:
+In your terminal run:
 ```
 make environment
 ```
