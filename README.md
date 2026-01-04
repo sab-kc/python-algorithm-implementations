@@ -15,3 +15,7 @@ To activate the environment, enter the following in your terminal:
 ```
 conda activate scientific-python
 ```
+
+## Sorting Algorithms
+
+In the `Sorting.ipynb` you will find a Jupyter notebook containing sorting algorithms for Bubble Sort, Quick Sort, Insertion Sort, and Selection Sort.
