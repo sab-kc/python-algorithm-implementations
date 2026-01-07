@@ -20,4 +20,8 @@ conda activate scientific-python
 
 ## Sorting Algorithms
 
-In the `Sorting.ipynb` you will find a Jupyter notebook containing sorting algorithms for Bubble Sort, Quick Sort, Insertion Sort, and Selection Sort.
+In the `Sorting.ipynb` file, you will find a Jupyter notebook containing sorting algorithms for Bubble Sort, Quick Sort, Insertion Sort, and Selection Sort.
+
+## Representing Data a Graph
+
+In the `Graphs.ipynb` file, you will find a Jupyter notebook containing my implementation of representing molecules as a graph using NetworkX. The `data` folder contains the SDF files of aspirin, butane, BPA, cholesterol, and histidine molecules downloaded from PubChem.
